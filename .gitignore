@@ -1,0 +1,10 @@
+# Project exclude paths
+/.gradle/
+/target/
+/target/classes/java/main/
+/**/*.class
+/bin/
+/classes/
+/.settings/
+/.idea/
+/.classpath
